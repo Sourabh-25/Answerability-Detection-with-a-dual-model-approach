@@ -1,0 +1,5 @@
+model_name: bert-base-uncased
+epochs: 3
+batch_size: 8
+learning_rate: 2e-5
+max_length: 384
