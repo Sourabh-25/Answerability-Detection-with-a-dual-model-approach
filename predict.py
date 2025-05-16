@@ -1,4 +1,3 @@
-# threshold decide kjarne me thoda modification try karte train ke baad:
 
 
 from transformers import BertTokenizer, BertForQuestionAnswering
